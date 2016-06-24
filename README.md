@@ -1,2 +1,3 @@
 # hello-world
-This is lunayi 
+
+This is lunayi and I feel the neccessity to learn coding somehow. So here I am...
